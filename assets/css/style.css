@@ -360,3 +360,8 @@ section {
 .flex-row {
   display: flex;
 }
+
+/* WEB RESPONSIVE */
+@media screen and (max-width: 980px) {
+  
+}
